@@ -59,7 +59,7 @@ const Contact: React.FC = () => {
                   <MapPin size={20} />
                 </div>
               </div>
-              <p className="text-xl font-medium">Thackar Estate, Mazgaon, Mumbai.</p>
+              <p className="text-xl font-medium">Thakkar Estate, Mazgaon, Mumbai.</p>
             </div>
           </div>
         </div>
